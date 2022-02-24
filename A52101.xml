@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular list of divers of the commanders and officers taken prisoners at Marston Moore neer York (otherwise called Hesham Moore) also a relation of some remarkable passages in the fight : as it is sent up in a letter from Hull, dated the sixth of Iuly, 1644.</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52101</idno>
+            <idno type="STC">Wing M83</idno>
+            <idno type="STC">ESTC R17443</idno>
+            <idno type="EEBO-CITATION">12346518</idno>
+            <idno type="OCLC">ocm 12346518</idno>
+            <idno type="VID">59902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 640:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular list of divers of the commanders and officers taken prisoners at Marston Moore neer York (otherwise called Hesham Moore) also a relation of some remarkable passages in the fight : as it is sent up in a letter from Hull, dated the sixth of Iuly, 1644.</title>
+                  <author>T. M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Rounthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.M.</note>
+                  <note>Wing lists title as: A list of the divers commanders. ...</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marston Moor, Battle of, 1644.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59902:1"/>
+            <pb facs="tcp:59902:1"/>
+            <p>A PARTICVLAR LIST OF DIVERS Of the Commanders.</p>
+            <p>And Officers taken Priſoners at <hi>Marston Moore</hi> neer York (otherwiſe called <hi>Heſham Moore.</hi>)</p>
+            <p>ALSO A RELATION OF SOME Remarkable Paſſages, in the Fight: as it is ſent up in a Letter from <hi>Hull,</hi> dated the ſixth of <hi>Iuly,</hi> 1644.</p>
+            <p>Printed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Rounthwait</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:59902:2"/>
+            <pb n="1" facs="tcp:59902:2"/>
+            <head>A RELATION OF SOME Remarkable Paſſages in the Fight neer York.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving had you often in my thoughts ſince I came downe, and remembring my promiſe to write, I therefore wai<g ref="char:EOLhyphen"/>ted an opportunitie to give you an account of the proceedings here, ſo nigh as I can exactly gather from the beſt intelli<g ref="char:EOLhyphen"/>gencers. The ſiege you heard was cloſe laid to the wals of the City of Yorke, and bravely maintain'd by the three Generals my Lord of <hi>Manchester,</hi> my Lord <hi>Fairfax,</hi> and Generall <hi>Laſley,</hi> that all proviſi<g ref="char:EOLhyphen"/>on was intercepted and cut off from the Citie; and
+<pb n="2" facs="tcp:59902:3"/>none could goe in or come out without the privitie of our Forces, who lay cloſe to the wals; which gave us great hopes that they could not continue; but ere long would yeeld; yet the report of <hi>Prince Ruperts</hi> comming into <hi>Lancaſhire</hi> and overcoming and taking many Forts therein, made them in the Citie refuſe very faire propoſitions condeſcended to by us, and ſtill to ſtand out, and make great reſi<g ref="char:EOLhyphen"/>ſtance by ſeverall times iſſuing forth of the Citie, but alwayes to their coſt, for many of them fell, and never returned to tell who got the better; The Prince as ſoon as he had wrought his Power and skill in <hi>Lancaſhire</hi> thinking to act his pleaſure in Yorkeſhire advanced with a great Army both of Horſe and Foote to Skipton in Craven, where he hovered a while; and after ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched as farre as Leedes; the noiſe of whoſe comming made ma<g ref="char:EOLhyphen"/>ny of the Countrey thereabouts fly as farre as this Towne with bag and baggage for ſafetie; and his Army being ſo nigh the Generalls thought it was beſt to raiſe the ſiege and gather all into a body, and give the Prince a meeting, which was done upon Munday laſt; at which the Citizens much rejoyced and ſallyed forth and hunted about, and got in Proviſion; but many of the Countrey people tooke it very heavily; yet pri<g ref="char:EOLhyphen"/>vate reſpects muſt not bee named before pub<g ref="char:EOLhyphen"/>lique and great concernements. Upon Tueſday the two great Armies met at a place called <hi>Heſſey Moore</hi> about ſome five miles from the City, facing one another all the morning; and in the afternoone the
+<pb n="3" facs="tcp:59902:3"/>Prince and his Troopes came deſperately riding up to the <hi>Scotts,</hi> and my Lord <hi>Fairfax</hi> his Forces, and charged them ſo hotly that he put them to a diſorder; and then (having given a watch-word before) he and all his Souldiers cried aloud, <hi>They runne in the Reere;</hi> which thoſe that were in the Front thinking it to be true, retreated, and ſo diſ<g ref="char:EOLhyphen"/>ordered their own men; and thereupon the Prince fiercely purſued them, made them flye, and tooke ſome of their carriages, and ſo promiſed themſelves the victory, and were taking the ſpoile, which they thought to have enjoyed; But the Lord of Hoſts did ſo ſtirre up the hearts of the three Noble Gene<g ref="char:EOLhyphen"/>rals, eying the dealings of God, that oftentimes in mans extremity He takes His own opportunity; that notwithſtanding all that loſſe of Men and Armes, took boldneſſe and courage unto them, gathering up thoſe Horſe Forces that were left into a body to aſſiſt thoſe <hi>Engliſh</hi> and <hi>Scotts</hi> that ſtood to it, and ſet upon them, as <hi>David</hi> with his ſmall Army upon the numerous company of the <hi>Ama<g ref="char:EOLhyphen"/>lekites,</hi> while they were rejoycing over their ſpoiles, and ſmote them untill the evening; and recovered not only all their owne that they had formerly loſt; but alſo took all their Carriages, and eighteene peece of Ordnance, (ſome ſay more,) tooke two thouſand Priſoners, and aboundance of Armes, and ſome ſay much Treaſure; totally routed the Foot, and ſcat<g ref="char:EOLhyphen"/>tered all the Horſe, ſave that the Prince and ſome five hundred Horſe fled to the walls of <hi>Yorke,</hi> where they were received for halfe an houre, and preſent<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:59902:4"/>the Prince, and my Lord of <hi>Newcaſtle,</hi> and thoſe Horſe that eſcaped, with what others they could rallie, marched forth, ſome ſay to <hi>Scarbrough,</hi> others to <hi>Pomſret,</hi> but its uncertaine yet where he is; The Generals have determined, nay (I heare) have laid ſiege againe to the City, and ſent it a ſummons, but no anſwer is returned as yet; they think the Citie would yeeld but for the multitude of Papiſts that are therein; we are ſtill upon the guard for feare the Prince gather head againe; the Lord ſave us, and deliver us from the tyrannie of them, for they are mightily enraged; but he that is able to deliver us is alſo willing to deliverus, and hath ſaved us hi<g ref="char:EOLhyphen"/>therto: Theſe are ſuch newes and occurrents as are with us. Thus with my love to you deſiring to heare from you, I reſt,</p>
+            <closer>
+               <signed>Your loving Friend <hi>T. M.</hi>
+               </signed>
+               <dateline>Hull, <date>6 <hi>Julij,</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="lists_of_officers_taken_prisoner">
+            <head>Officers taken by the Lord <hi>Fairfax</hi> and the Lord of <hi>Mancheſter.</hi>
+            </head>
+            <list>
+               <item>Major Generall <hi>Porter.</hi>
+               </item>
+               <item>Collonel <hi>Tyllier.</hi>
+               </item>
+               <item>Col. <hi>Lamplough.</hi>
+               </item>
+               <item>Mr. <hi>Gooring.</hi>
+               </item>
+               <item>Lievt. Col. <hi>Hamon.</hi>
+               </item>
+               <item>Lievt. Col. <hi>Maude.</hi>
+               </item>
+               <item>Major <hi>Cartwright.</hi>
+               </item>
+               <item>Major <hi>Lane.</hi>
+               </item>
+               <item>Major <hi>Wiſe.</hi>
+               </item>
+            </list>
+            <div type="list_of_captains">
+               <pb n="5" facs="tcp:59902:4"/>
+               <head>Captaines.</head>
+               <list>
+                  <item>Capt. <hi>Dawſon.</hi>
+                  </item>
+                  <item>Capt. <hi>Mucklow.</hi>
+                  </item>
+                  <item>Capt. <hi>Ewbauck.</hi>
+                  </item>
+                  <item>Capt. <hi>Diſney.</hi>
+                  </item>
+                  <item>Capt. <hi>Birridge.</hi>
+                  </item>
+                  <item>Capt. <hi>Fowler.</hi>
+                  </item>
+                  <item>Capt. <hi>Oyle.</hi>
+                  </item>
+                  <item>Capt. <hi>Hen. Wren.</hi>
+                  </item>
+                  <item>Capt. <hi>Hodgſon.</hi>
+                  </item>
+                  <item>Capt. <hi>Dikes.</hi>
+                  </item>
+                  <item>Capt. <hi>Munday.</hi>
+                  </item>
+                  <item>
+                     <hi>Ogleby,</hi> Capt. Lievt.</item>
+                  <item>Capt. <hi>Lodam.</hi>
+                  </item>
+                  <item>Capt. <hi>Manwaring.</hi>
+                  </item>
+                  <item>Capt. <hi>Grines.</hi>
+                  </item>
+                  <item>Capt. <hi>Win.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="list_of_lieutenants">
+               <head>Lievtenants.</head>
+               <p>
+                  <hi>Lievt.</hi> Waſhington. Goodwin. Chambers. Poole. Dobſon. Suddick. Osburne. Foſter. Blackman. Cooles. Plunckit.</p>
+            </div>
+            <div type="list_of_ensigns">
+               <head>Enſignes.</head>
+               <p>
+                  <hi>Wheeler. Hedworth. Foster. Dykes.</hi>
+               </p>
+               <p>Mr. <hi>Coule</hi> ſervant to the Marqueſſe. <hi>Edw. Errick</hi> Maſter Gunner to his Majeſty. Sir <hi>Charles Lucas</hi> and divers others of quality were taken by the <hi>Scotts</hi> Forces, whoſe Names as yet I have not got. I know not the certaine number of the common Souldiers that are priſoners, I heare they are about 2000.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:59902:5"/>
+            <head>6 <hi>Iuly,</hi> 1644.</head>
+            <p>Mr. <hi>Hollis</hi> a Marchant of <hi>Hull</hi> is this day come from the Army at <hi>Yorke,</hi> who ſaith, that Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> and the Earle of <hi>Newcastle</hi> is gone towards <hi>Scar<g ref="char:EOLhyphen"/>brough</hi> or Northwards, and ſaith all their Foot are loſt, kil'd and taken, 19. peeces of great Ordnance, beſides Drakes and leſſer Peeces, 57. Carriages, all their bagge and baggage, 10000. Armes, aboue 3000. ſlaine, and 2000. taken priſoners.</p>
+            <p>That our Army ſate down before <hi>Yorke</hi> on Friday at night laſt, and drove away 60. Cattle cloſe from under the wall; and further newes is come for cer<g ref="char:EOLhyphen"/>taine, that <hi>Yorke</hi> is this day to be delivered up for King and Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
